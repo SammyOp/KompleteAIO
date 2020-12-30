@@ -56,7 +56,7 @@ Usizo helps you to open links and join invites on its own! Usizo is the perfect 
 
 <details><summary>Areas of Interest:</summary>
 <p>
-    <li>Easy buying of customized source codes.</li>
+    <li>Eases buying of customized source codes.</li>
 <li>Looks over custom Webhooks.</li>
 <li>Exports and Imports logs.</li>
 <li>Exports and Imports settings.</li>
